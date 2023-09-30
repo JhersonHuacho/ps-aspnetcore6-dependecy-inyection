@@ -1,0 +1,1 @@
+# ps-aspnetcore6-dependecy-inyection
